@@ -11,4 +11,4 @@ I build responsive web interfaces with React and love diving into AI, ML, and cy
 **Tech stack:**
 `HTML` `CSS` `JavaScript` `React` `Python` `NumPy`
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) · erfan.fekrinezad@email.com
+📫 Reach me: https://www.linkedin.com/in/efofekrinezhad  · erfan.fekrinezad@email.com
