@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Erfan 👋
 
-<!--
-**erfanfekri/erfanfekri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend developer & Computer Engineering student.
+I build responsive web interfaces with React and love diving into AI, ML, and cybersecurity on the side.
 
-Here are some ideas to get you started:
+**Currently:**
+- 🎓 Studying CE — writing articles for academic journals & top university admissions
+- 💼 Open to freelance web projects & junior roles
+- 🔐 Exploring AI security and adversarial ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech stack:**
+`HTML` `CSS` `JavaScript` `React` `Python` `NumPy`
+
+📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) · erfan@email.com
